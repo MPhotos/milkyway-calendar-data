@@ -1,0 +1,52 @@
+[
+  {
+    "Date": "Monday, May 26, 2025",
+    "Milky Way Core Rises": "01:12 PDT",
+    "Milky Way Core Sets": "03:43 PDT",
+    "Moon Rises": "23:10 PDT",
+    "Moon Sets": "07:34 PDT",
+    "Milky Way Quality": "Good",
+    "Duration": "2h 31m",
+    "Moon Phase": "\ud83c\udf14 Waxing Gibbous"
+  },
+  {
+    "Date": "Tuesday, May 27, 2025",
+    "Milky Way Core Rises": "01:14 PDT",
+    "Milky Way Core Sets": "03:39 PDT",
+    "Moon Rises": "23:56 PDT",
+    "Moon Sets": "08:19 PDT",
+    "Milky Way Quality": "Good",
+    "Duration": "2h 25m",
+    "Moon Phase": "\ud83c\udf15 Full Moon"
+  },
+  {
+    "Date": "Wednesday, May 28, 2025",
+    "Milky Way Core Rises": "01:16 PDT",
+    "Milky Way Core Sets": "03:36 PDT",
+    "Moon Rises": "\u2014",
+    "Moon Sets": "09:05 PDT",
+    "Milky Way Quality": "Fair",
+    "Duration": "2h 20m",
+    "Moon Phase": "\ud83c\udf16 Waning Gibbous"
+  },
+  {
+    "Date": "Thursday, May 29, 2025",
+    "Milky Way Core Rises": "01:18 PDT",
+    "Milky Way Core Sets": "03:33 PDT",
+    "Moon Rises": "00:42 PDT",
+    "Moon Sets": "09:52 PDT",
+    "Milky Way Quality": "Fair",
+    "Duration": "2h 15m",
+    "Moon Phase": "\ud83c\udf16 Waning Gibbous"
+  },
+  {
+    "Date": "Friday, May 30, 2025",
+    "Milky Way Core Rises": "01:20 PDT",
+    "Milky Way Core Sets": "03:29 PDT",
+    "Moon Rises": "01:29 PDT",
+    "Moon Sets": "10:41 PDT",
+    "Milky Way Quality": "Poor",
+    "Duration": "1h 55m",
+    "Moon Phase": "\ud83c\udf16 Waning Gibbous"
+  }
+]
